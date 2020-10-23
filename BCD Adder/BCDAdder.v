@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Aaryaa Padhyegurjar
 // 
 // Create Date: 30.05.2020 21:52:24
 // Design Name: 
